@@ -13,6 +13,6 @@
 ## 📫 Contactez-moi
 N'hésitez pas à me contacter pour discuter de projets, d'opportunités professionnelles ou simplement pour échanger :
 
-- [Email](quentinchaignaud@gmail.com)
-- [LinkedIn]()
-- [Twitter]()
+- [Email](contact@quentinchaignaud.com)
+- [LinkedIn](https://www.linkedin.com/in/quentin-chaignaud/)
+- [Twitter](https://twitter.com/quentin__js)
