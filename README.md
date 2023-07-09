@@ -8,7 +8,7 @@
 - Méthodologies : Agile, DevOps
 
 ## 📦 Mes projets
-- [quentinchaignaud.com](https://github.com/quentinchaignaud/quentinchaignaud.com) : Un site personnel avec blog
+- [quentinchaignaud.com](https://www.quentinchaignaud.com/) : Un site personnel avec blog
 - [WonderWalkar](https://wonderwalkar.com/) : Une application pour explorer Paris et collecter ses monuments !
 
 ## 📫 Contactez-moi
