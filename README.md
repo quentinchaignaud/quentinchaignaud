@@ -9,7 +9,7 @@
 
 ## 📦 Mes projets
 - [quentinchaignaud.com](https://www.quentinchaignaud.com/) : Un site personnel avec blog
-- [WonderWalkar](https://wonderwalkar.com/) : Une application pour explorer Paris et collecter ses monuments !
+- [WonderWalkar](https://wonderwalkar.com/) : Une application pour explorer Paris et collecter ses monuments
 
 ## 📫 Contactez-moi
 N'hésitez pas à me contacter pour discuter de projets, d'opportunités professionnelles ou simplement pour échanger :
