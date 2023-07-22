@@ -5,8 +5,7 @@
 - Frameworks et bibliothèques : Svelte, Flask, Node.js, React, SvelteKit, Flutter, Three.js
 - Cloud/ baas : Azure, Linode, Firebase, Pocketbase
 - Outils : Git, Docker, Kubernetes, CI/CD, Visual Studio Code
-- Méthodologies : Agile, DevOps
-
+  
 ## 📦 Mes projets
 - [quentinchaignaud.com](https://www.quentinchaignaud.com/) : Un site personnel avec blog
 - [WonderWalkar](https://wonderwalkar.com/) : Une application pour explorer Paris et collecter ses monuments
