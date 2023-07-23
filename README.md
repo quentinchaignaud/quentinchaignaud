@@ -1,8 +1,8 @@
 # Quentin Chaignaud
 
 ## 🔧  Compétences techniques (la CHAD stack)
-- Langages : Python, Dart, SQL, TypeScript, Java, Rust - en cours -
-- Frameworks et bibliothèques : Svelte, Flask, Node.js, React, SvelteKit, Flutter, Three.js
+- Langages : Python, Dart, SQL, TypeScript, Rust - en cours -
+- Frameworks et bibliothèques : Svelte, Node.js, React, Flutter, Three.js
 - Cloud/ baas : Azure, Linode, Firebase, Pocketbase
 - Outils : Git, Docker, Kubernetes, CI/CD, Visual Studio Code
   
