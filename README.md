@@ -1,17 +1,17 @@
 # Quentin Chaignaud
 
-## 🔧  Compétences techniques (la CHAD stack)
+## 🔧  What I code in (the CHAD stack)
 - Langages : Python, Dart, SQL, TypeScript, Rust - en cours -
-- Frameworks et bibliothèques : Svelte, Node.js, React, Flutter, Three.js
+- Frameworks and libraries : Svelte, Node.js, React, Flutter, Three.js
 - Cloud/ baas : Azure, Linode, Firebase, Pocketbase
-- Outils : Git, Docker, Kubernetes, CI/CD, Visual Studio Code
+- Tools : Git, Docker, Kubernetes, CI/CD, Visual Studio Code
   
-## 📦 Mes projets
-- [quentinchaignaud.com](https://www.quentinchaignaud.com/) : Un site personnel avec blog
-- [WonderWalkar](https://wonderwalkar.com/) : Une application pour explorer Paris et collecter ses monuments
+## 📦 My projects
+- [quentinchaignaud.com](https://www.quentinchaignaud.com/) : A personal website with a blog
+- [WonderWalkar](https://wonderwalkar.com/) : An app to explore Paris and discover it's monuments
 
-## 📫 Contactez-moi
-N'hésitez pas à me contacter pour discuter de projets, d'opportunités professionnelles ou simplement pour échanger :
+## 📫 Contact me
+Feel free to contact me to discuss projects, professional opportunities or simply to chat:
 
 - [Email](mailto:contact@quentinchaignaud.com?subject=[GitHub]%20Source%20Han%20Sans)
 - [LinkedIn](https://www.linkedin.com/in/quentin-chaignaud/)
