@@ -1,14 +1,15 @@
 # Quentin Chaignaud
 
-## 🔧  What I code in (the CHAD stack)
+## 🔧  What I code in (CHAD stack)
 - Langages : Python, Dart, SQL, TypeScript, Rust - en cours -
 - Frameworks and libraries : Svelte, Node.js, React, Flutter, Three.js
-- Cloud/ baas : Azure, Linode, Firebase, Pocketbase
+- DB/ baas : Firebase, Pocketbase, duckdb, postgres, Azure
 - Tools : Git, Docker, Kubernetes, CI/CD, Visual Studio Code
   
-## 📦 My projects
-- [quentinchaignaud.com](https://www.quentinchaignaud.com/) : A personal website with a blog
-- [WonderWalkar](https://wonderwalkar.com/) : An app to explore Paris and discover it's monuments
+## 📦 My open source projects
+- Personal Website : A small portfolio, with a blog
+- Fog of War : A library that adds a fog of war on top of flutter_map, so that the users can reveal hidden areas as they walk
+- Hack The Bite : A video course platform, where all profits would be donated to charities who fights against malaria
 
 ## 📫 Contact me
 Feel free to contact me to discuss projects, professional opportunities or simply to chat:
