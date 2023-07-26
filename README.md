@@ -10,6 +10,7 @@
 - [Personal Website](https://github.com/quentinchaignaud/quentinchaignaud.com) : A small portfolio, with a blog
 - [Fog of War](https://github.com/quentinchaignaud/fog-of-war) : A library that adds a fog of war on top of flutter_map, so that the users can reveal hidden areas as they walk
 - [Hack The Bite](https://github.com/quentinchaignaud/course-plateform) : A video course platform, where all profits would be donated to charities who fights against malaria
+
 For more details of my projects, please visit my [personal website](https://www.quentinchaignaud.com/).
 
 ## 📫 Contact me
