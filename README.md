@@ -1,7 +1,7 @@
 # Quentin Chaignaud
 
 ## 🔧  What I code in (CHAD stack)
-- Langages : Python, Dart, SQL, TypeScript, Rust - en cours -
+- Langages : Python, Dart, SQL, TypeScript, Rust - processing it -
 - Frameworks and libraries : Svelte, Node.js, React, Flutter, Three.js
 - DB/ baas : Firebase, Pocketbase, duckdb, postgres, Azure
 - Tools : Git, Docker, Kubernetes, CI/CD, Visual Studio Code
