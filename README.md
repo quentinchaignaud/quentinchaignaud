@@ -4,7 +4,7 @@
 - Langages : Python, Dart, SQL, TypeScript, Rust - processing it -
 - Frameworks and libraries : Svelte, Node.js, React, Flutter, Three.js
 - DB/ baas : Firebase, Pocketbase, duckdb, postgres, Azure
-- Tools : Git, Docker, Kubernetes, CI/CD, Visual Studio Code
+- Tools : Git, Docker, Visual Studio Code
   
 ## 📦 My open source projects
 - [Personal Website](https://github.com/quentinchaignaud/quentinchaignaud.com) : A small portfolio, with a blog
