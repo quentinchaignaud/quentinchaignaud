@@ -2,8 +2,8 @@
 
 ## 🔧  What I code in (CHAD stack)
 - Langages : Python, Dart, SQL, TypeScript, Rust - processing it -
-- Frameworks and libraries : Svelte, Node.js, React, Flutter, Three.js
-- DB/ baas : Firebase, Pocketbase, duckdb, postgres, Azure
+- Frameworks and libraries : Sveltekit, React, Flutter, Three.js
+- DB/ baas : Firebase, Pocketbase, Duckdb, postgres, Azure
 - Tools : Git, Docker, Visual Studio Code
   
 ## 📦 My open source projects
@@ -14,7 +14,7 @@
 For more details of my projects, please visit my [personal website](https://www.quentinchaignaud.com/).
 
 ## 📫 Contact me
-Feel free to contact me to discuss projects, professional opportunities or simply to chat:
+Feel free to contact me to discuss projects, professional opportunities or simply to chat :
 
 - [Email](mailto:contact@quentinchaignaud.com?subject=[GitHub]%20Source%20Han%20Sans)
 - [LinkedIn](https://www.linkedin.com/in/quentin-chaignaud/)
